@@ -20,7 +20,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/Qufyy/obs-scale-to-sound.git
-        tag: 1.2.1
-        commit: 2598381f4e38bd17d0a96f19fb8db8e61ac73478
+        tag: 1.2.2
+        commit: 5ddb5299f85e6964ef8eb67463eee3295190e51d
       - type: file
         path: com.obsproject.Studio.Plugin.ScaleToSound.metainfo.xml
