@@ -19,8 +19,7 @@ modules:
       - appstream-compose --basename=${FLATPAK_ID} --prefix=${FLATPAK_DEST} --origin=flatpak ${FLATPAK_ID}
     sources:
       - type: git
-        url: https://github.com/Qufyy/obs-scale-to-sound.git
-        tag: 1.2.1
-        commit: 2598381f4e38bd17d0a96f19fb8db8e61ac73478
+        url: https://github.com/dimtpap/obs-scale-to-sound.git
+        commit: b97d5fd2a91d863876edacb9cc9dc8f9e6d306e6
       - type: file
         path: com.obsproject.Studio.Plugin.ScaleToSound.metainfo.xml
