@@ -2,7 +2,7 @@
 <component type="addon">
   <id>com.obsproject.Studio.Plugin.ScaleToSound</id>
   <extends>com.obsproject.Studio</extends>
-  <name>Scale To Sound Plugin</name>
+  <name>Scale To Sound</name>
   <summary>Scale sources according to the sound of an audio source</summary>
   <url type="homepage">https://github.com/Qufyy/obs-scale-to-sound</url>
   <metadata_license>CC0-1.0</metadata_license>
