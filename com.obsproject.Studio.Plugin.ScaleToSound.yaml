@@ -11,6 +11,7 @@ build-options:
 modules:
   - name: scale-to-sound
     buildsystem: cmake-ninja
+    builddir: true
     config-opts:
       - -DCMAKE_BUILD_TYPE=Release
     post-install:
